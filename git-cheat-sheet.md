@@ -34,6 +34,8 @@
 - **Push branch**: `git push origin <branch>`
 - **Pull changes**: `git pull`
 - **Fetch**: `git fetch`
+- **Fetch Origin**: `git fetch origin`
+- **Reset Hard**: `git reset --hard origin/main`
 
 ## Undo / Fix
 - **Undo staged file**: `git restore --staged <file>`
